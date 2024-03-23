@@ -1,5 +1,15 @@
-
-![homepage](re/homepage.png)
+<p align="center">
+  <h2>카테고리</h2>
+  <img src="pic/카테고리.gif" alt="카테고리" width="100%">
+</p>
+<p align="center">
+  <h2>자동검색어(네이버,구글 검색어처럼 구현)</h2>
+  <img src="pic/자동검색어.gif" alt="자동검색어" width="100%">
+</p>
+<p align="center"> 
+  <h2>무한 스크롤</h2>
+  <img src="pic/무한.gif" alt="무한" width="100%">
+</p>
 
 ## **Eatable_Frontend 소개**
 
@@ -15,7 +25,7 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 |김미란 팀원|온도 콘텐츠 구현|
 |임승빈 팀원|어드민 데이터 차트.js 시각화, 상태값 데이터 관리 , 네이버OAuth2로그인 구현|
 |조재환 팀원|실시간 웨이팅 및 대기열 구현|
-|최진무 팀원|룰렛 , 구글맵API , 업체등록 CRUD , 검색서치 쿼리 구현|
+|최진무 팀원|룰렛 , 구글맵API , 업체등록 CRUD , 검색서치 쿼리 구현 (자동검색어,카테고리), 승인된 매장 데이터베이스 저장, 페이지네이션, 무한스크롤, 첨부파일
 
 ## 🛠**기술 스텍**
 ![homepage](re/skillstack.png)
@@ -76,9 +86,29 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 **REST API 구현**: Spring Boot 애플리케이션에서 RESTful 웹 서비스를 구현해서 클라이언트와 통신.
 
 ## ❤**이미지 소개**
-마이페이지 / 파트너페이지   / 권한에 따라
-![mypage](re/mypage.gif)
-타임라인
-![timeline](re/timeline.gif)
+
+<p align="center"> 
+  <h2>DropZone</h2>
+  <img src="pic/dropzone.gif" alt="dropzone" width="100%">
+</p>
+<p align="center"> 
+  <h2>Drag and Drop</h2>
+  <img src="pic/draganddrop.gif" alt="Drag and Drop" width="100%">
+</p>
+<p align="center"> 
+  <h2>구글 자동 검색어(place API - place Autocomplete, Maps Javascript API - Geocode)</h2>
+  <img src="pic/구글검색어.gif" alt="구글 자동 검색어" width="100%">
+</p>
+<p align="center"> 
+  <h2>구글 현재 위치</h2>
+  <img src="pic/위치.png" alt="구글위치" width="100%">
+  <img src="pic/현재.png" alt="구글" width="100%">
+</p>
+<p align="center"> 
+  <h2>구글맵</h2>
+  Google map API - infowindow 대신 modal로 씀
+  <img src="pic/지도.gif" alt="지도" width="100%">
+  <img src="pic/지도검색.gif" alt="지도검색" width="100%">
+</p>
 
 
